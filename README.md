@@ -9,12 +9,6 @@
 I’m a DevOps engineer passionate about building **reliable, scalable, and automated infrastructure**.  
 My focus is on **container orchestration, observability, and platform reliability** in production environments.
 
-I enjoy solving real-world problems around:
-- Infrastructure scalability
-- System performance & monitoring
-- Automation and operational efficiency
-- Multi-environment deployments
-
 ---
 
 ## ⚙️ Core Expertise
@@ -52,17 +46,6 @@ I enjoy solving real-world problems around:
 - 🔍 Debugging production issues (networking, ingress, resource limits)
 - ⚡ Automating infrastructure tasks using scripts and tools
 - 🔐 Managing user access and permissions at scale
-
----
-
-## 📌 Key Highlights
-
-- 🚀 Automated role and access management across multiple OpenShift clusters
-- 📊 Built advanced Grafana dashboards using custom PromQL metrics
-- 🐳 Optimized container images with multi-stage Docker builds
-- 🔄 Created scripts for image extraction, tagging, and deployment workflows
-- ⚙️ Improved system reliability through monitoring and tuning
-- 🔍 Diagnosed and resolved ingress and gateway issues (502, routing, etc.)
 
 ---
 
